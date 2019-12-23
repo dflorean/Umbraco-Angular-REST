@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  umbracoheadrestsample:
+    image: ${DOCKER_REGISTRY-}umbracoheadrestsample
+    build:
+      context: .\UmbracoHeadRestSample
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+      - "127.0.0.1:8001:8001"
+    environment:
+      - ConnectionString=Server={HOSTNAME_HERE};Database={DB_HERE};User Id={USER_HERE};Password={PASSWORD_HERE}
