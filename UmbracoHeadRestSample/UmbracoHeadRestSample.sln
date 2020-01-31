@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoHeadRestSample", "UmbracoHeadRestSample\UmbracoHeadRestSample.csproj", "{F47C3AFB-E0F7-4E44-9C79-386F908BE949}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTuna.Umbraco.Extensions", "..\Libraries\iTuna.Umbraco.Extensions\iTuna.Umbraco.Extensions.csproj", "{BF3E5FDB-0A0C-4412-898F-DF772DD0317A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco.Extensions", "..\Libraries\Umbraco.Extensions\Umbraco.Extensions.csproj", "{BF3E5FDB-0A0C-4412-898F-DF772DD0317A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -254,9 +254,9 @@ C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSamp
 C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\Our.Umbraco.AuthU.pdb
 C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\System.IdentityModel.Tokens.Jwt.pdb
 C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\System.IdentityModel.Tokens.Jwt.xml
-C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\iTuna.Umbraco.Extensions.dll
-C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\Umbraco.Web.PublishedModels.dll
-C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\iTuna.Umbraco.Extensions.pdb
 C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\System.Web.Cors.dll
 C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\System.Web.Http.Cors.dll
 C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\System.Web.Http.Cors.xml
+C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\iTuna.Umbraco.Extensions.dll
+C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\Umbraco.Web.PublishedModels.dll
+C:\Users\Dani\Documents\Projects\iTuna\UmbracoHeadRestSample\UmbracoHeadRestSample\UmbracoHeadRestSample\bin\iTuna.Umbraco.Extensions.pdb

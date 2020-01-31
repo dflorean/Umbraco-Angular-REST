@@ -497,13 +497,13 @@
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.2.6.1\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Libraries\iTuna.Umbraco.Extensions\iTuna.Umbraco.Extensions.csproj">
-      <Project>{bf3e5fdb-0a0c-4412-898f-df772dd0317a}</Project>
-      <Name>iTuna.Umbraco.Extensions</Name>
-    </ProjectReference>
+    <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+    <ProjectReference Include="..\..\Libraries\Umbraco.Extensions\Umbraco.Extensions.csproj">
+      <Project>{bf3e5fdb-0a0c-4412-898f-df772dd0317a}</Project>
+      <Name>Umbraco.Extensions</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
